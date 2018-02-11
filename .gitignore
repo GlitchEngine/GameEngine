@@ -32,6 +32,6 @@
 *.app
 
 # Folders
-_binary/
-_temporary/
-GlitchEngine/
+_bin/
+_temp/
+.vs/
