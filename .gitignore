@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Folders
+_binary/
+_temporary/
+GlitchEngine/
